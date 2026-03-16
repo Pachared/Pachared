@@ -104,8 +104,8 @@
 
 <a href="https://vercel.com/" target="_blank" rel="noreferrer">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="skills/vercel_light.svg">
-  <source media="(prefers-color-scheme: light)" srcset="skills/vercel_dark.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="skills/vercel_dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="skills/vercel_light.svg">
   <img src="skills/vercel_dark.svg" width="50" height="50">
 </picture>
 </a>&nbsp;&nbsp;
