@@ -37,16 +37,16 @@
 <!-- <a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored-dark.svg" width="50" height="50" /></a>&nbsp;&nbsp; -->
 <a href="https://go.dev/doc/" target="_blank" rel="noreferrer">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="skills/golang.svg">
-  <source media="(prefers-color-scheme: light)" srcset="skills/golang_dark.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="skills/golang_dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="skills/golang.svg">
   <img src="skills/golang_dark.svg" width="50" height="50">
 </picture>
 </a>&nbsp;&nbsp;
 
 <a href="https://www.php.net/" target="_blank" rel="noreferrer">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="skills/php.svg">
-  <source media="(prefers-color-scheme: light)" srcset="skills/php_dark.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="skills/php_dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="skills/php.svg">
   <img src="skills/php_dark.svg" width="50" height="50">
 </picture>
 </a>&nbsp;&nbsp;
@@ -71,16 +71,16 @@
 <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="skills/vscode.svg" width="50" height="50" /></a>&nbsp;&nbsp;
 <a href="https://cursor.com/home?from=agents" target="_blank" rel="noreferrer">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="skills/cursor_light.svg">
-  <source media="(prefers-color-scheme: light)" srcset="skills/cursor_dark.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="skills/cursor_dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="skills/cursor_light.svg">
   <img src="skills/cursor_dark.svg" width="50" height="50">
 </picture>
 </a>&nbsp;&nbsp;
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="skills/git.svg" width="50" height="50" /></a>&nbsp;&nbsp;
 <a href="https://github.com/" target="_blank" rel="noreferrer">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="skills/github_light.svg">
-  <source media="(prefers-color-scheme: light)" srcset="skills/github_dark.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="skills/github_dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="skills/github_light.svg">
   <img src="skills/github_dark.svg" width="50" height="50">
 </picture>
 </a>&nbsp;&nbsp;
@@ -105,15 +105,15 @@
 <a href="https://vercel.com/" target="_blank" rel="noreferrer">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="skills/vercel_dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="skills/vercel_light.svg">
+  <source media="(prefers-color-scheme: light)" srcset="skills/vercel.svg">
   <img src="skills/vercel_dark.svg" width="50" height="50">
 </picture>
 </a>&nbsp;&nbsp;
 
 <a href="https://railway.com/" target="_blank" rel="noreferrer">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="skills/railway.svg">
-  <source media="(prefers-color-scheme: light)" srcset="skills/railway_dark.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="skills/railway_dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="skills/railway.svg">
   <img src="skills/railway_dark.svg" width="50" height="50">
 </picture>
 </a>&nbsp;&nbsp;
