@@ -60,7 +60,7 @@
 <p align="left">
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="skills/mysql-wordmark-light.svg" width="60" height="60"></a>&nbsp;&nbsp;
 <!-- <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="50" height="50" /></a>&nbsp;&nbsp; -->
-<!-- <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="skills/postgresql.svg" width="50" height="50" /></a>&nbsp;&nbsp; -->
+<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="skills/postgresql.svg" width="50" height="50" /></a>&nbsp;&nbsp;
 <!-- <a href="https://www.microsoft.com/en-us/sql-server/" target="_blank" rel="noreferrer"><img src="skills/sql-server.svg" width="50" height="50" /></a>&nbsp;&nbsp; -->
 <a href="https://redis.io/" target="_blank" rel="noreferrer"><img src="skills/redis.svg" width="50" height="50" /></a>&nbsp;&nbsp;
 </p>
