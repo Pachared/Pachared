@@ -63,6 +63,7 @@
 <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="skills/postgresql.svg" width="50" height="50" /></a>&nbsp;&nbsp;
 <!-- <a href="https://www.microsoft.com/en-us/sql-server/" target="_blank" rel="noreferrer"><img src="skills/sql-server.svg" width="50" height="50" /></a>&nbsp;&nbsp; -->
 <a href="https://redis.io/" target="_blank" rel="noreferrer"><img src="skills/redis.svg" width="50" height="50" /></a>&nbsp;&nbsp;
+<a href="https://sqlite.org/" target="_blank" rel="noreferrer"><img src="skills/sqlite.svg" width="50" height="50" /></a>&nbsp;&nbsp;
 </p>
 
 ### Dev Tools
@@ -94,7 +95,8 @@
 <a href="https://www.postman.com/" target="_blank" rel="noreferrer"><img src="skills/postman.svg" width="50" height="50" /></a>&nbsp;&nbsp;
 <a href="https://www.warp.dev/" target="_blank" rel="noreferrer"><img src="skills/warp.svg" width="50" height="50" /></a>&nbsp;&nbsp;
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="skills/docker.svg" width="50" height="50" /></a>&nbsp;&nbsp;
-<!-- <a href="https://n8n.io/" target="_blank" rel="noreferrer"><img src="skills/n8n.svg" width="50" height="50" /></a>&nbsp;&nbsp; -->
+<a href="https://axios.rest/" target="_blank" rel="noreferrer"><img src="skills/axios.svg" width="50" height="50" /></a>&nbsp;&nbsp;
+<a href="https://gin-gonic.com/" target="_blank" rel="noreferrer"><img src="skills/gin.svg" width="50" height="50" /></a>&nbsp;&nbsp;
 </p>
 
 ### Design Tools
