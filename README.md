@@ -14,69 +14,53 @@
 
 # </ Skills >
 
-### Front-End
+### Programming language
 
 <p align="left">
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="skills/html5.svg" width="50" height="50" /></a>&nbsp;&nbsp;
-<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="skills/css.svg" width="50" height="50" /></a>&nbsp;&nbsp;
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="skills/javascript.svg" width="50" height="50" /></a>&nbsp;&nbsp;
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="skills/typescript.svg" width="50" height="50" /></a>&nbsp;&nbsp;
-<a href="https://vitejs.dev/" target="_blank" rel="noreferrer"><img src="skills/vite.svg" width="50" height="50" /></a>&nbsp;&nbsp;
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="skills/react_dark.svg" width="50" height="50" /></a>&nbsp;&nbsp;
-<a href="https://nextjs.org/" target="_blank" rel="noreferrer"><img src="skills/nextjs_icon_dark.svg" width="50" height="50" /></a>&nbsp;&nbsp;
-<a href="https://reactrouter.com/" target="_blank" rel="noreferrer"><img src="skills/reactrouter.svg" width="50" height="50" /></a>&nbsp;&nbsp;
-<!-- <a href="https://angular.dev/" target="_blank" rel="noreferrer"><img src="skills/angular.svg" width="50" height="50" /></a>&nbsp;&nbsp; -->
-<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="skills/tailwindcss.svg" width="50" height="50" /></a>&nbsp;&nbsp;
-<a href="https://mui.com/" target="_blank" rel="noreferrer"><img src="skills/materialui.svg" width="50" height="50" /></a>&nbsp;&nbsp;
-</p>
-
-### Back-End
-
-<p align="left">
-<!-- <a href="https://nodejs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="50" height="50" /></a>&nbsp;&nbsp; -->
-<!-- <a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored-dark.svg" width="50" height="50" /></a>&nbsp;&nbsp; -->
 <a href="https://go.dev/doc/" target="_blank" rel="noreferrer">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="skills/golang_dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="skills/golang.svg">
   <img src="skills/golang_dark.svg" width="50" height="50">
 </picture>
-</a>&nbsp;&nbsp;
+</p>
 
-<a href="https://www.php.net/" target="_blank" rel="noreferrer">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="skills/php_dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="skills/php.svg">
-  <img src="skills/php_dark.svg" width="50" height="50">
-</picture>
+### Front-End
+
+<p align="left">
+<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="skills/html5.svg" width="50" height="50" /></a>&nbsp;&nbsp;
+<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="skills/css.svg" width="50" height="50" /></a>&nbsp;&nbsp;
+<a href="https://vitejs.dev/" target="_blank" rel="noreferrer"><img src="skills/vite.svg" width="50" height="50" /></a>&nbsp;&nbsp;
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="skills/react_dark.svg" width="50" height="50" /></a>&nbsp;&nbsp;
+<a href="https://nextjs.org/" target="_blank" rel="noreferrer"><img src="skills/nextjs_icon_dark.svg" width="50" height="50" /></a>&nbsp;&nbsp;
+<a href="https://reactrouter.com/" target="_blank" rel="noreferrer"><img src="skills/reactrouter.svg" width="50" height="50" /></a>&nbsp;&nbsp;
+<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="skills/tailwindcss.svg" width="50" height="50" /></a>&nbsp;&nbsp;
+<a href="https://mui.com/" target="_blank" rel="noreferrer"><img src="skills/materialui.svg" width="50" height="50" /></a>&nbsp;&nbsp;
+<a href="https://axios.rest/" target="_blank" rel="noreferrer"><img src="skills/axios.svg" width="50" height="50" /></a>&nbsp;&nbsp;
+</p>
+
+### Back-End
+
+<p align="left">
+<a href="https://gin-gonic.com/" target="_blank" rel="noreferrer"><img src="skills/gin.svg" width="50" height="50" /></a>&nbsp;&nbsp;
 </a>&nbsp;&nbsp;
 <a href="https://www.jwt.io/" target="_blank" rel="noreferrer"><img src="skills/jwt.svg" width="50" height="50" /></a>&nbsp;&nbsp;
-<!-- <a href="https://dotnet.microsoft.com/en-us/languages/csharp" target="_blank" rel="noreferrer"><img src="skills/csharp.svg" width="50" height="50" /></a>&nbsp;&nbsp;
-<a href="https://dotnet.microsoft.com/en-us/" target="_blank" rel="noreferrer"><img src="skills/dotnet.svg" width="50" height="50" /></a>&nbsp;&nbsp; -->
 </p>
 
 ### Database
 
 <p align="left">
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="skills/mysql-wordmark-light.svg" width="60" height="60"></a>&nbsp;&nbsp;
-<!-- <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="50" height="50" /></a>&nbsp;&nbsp; -->
 <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="skills/postgresql.svg" width="50" height="50" /></a>&nbsp;&nbsp;
-<!-- <a href="https://www.microsoft.com/en-us/sql-server/" target="_blank" rel="noreferrer"><img src="skills/sql-server.svg" width="50" height="50" /></a>&nbsp;&nbsp; -->
 <a href="https://redis.io/" target="_blank" rel="noreferrer"><img src="skills/redis.svg" width="50" height="50" /></a>&nbsp;&nbsp;
-<a href="https://sqlite.org/" target="_blank" rel="noreferrer"><img src="skills/sqlite.svg" width="50" height="50" /></a>&nbsp;&nbsp;
 </p>
 
 ### Dev Tools
 
 <p align="left">
 <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="skills/vscode.svg" width="50" height="50" /></a>&nbsp;&nbsp;
-<a href="https://cursor.com/home?from=agents" target="_blank" rel="noreferrer">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="skills/cursor_dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="skills/cursor_light.svg">
-  <img src="skills/cursor_dark.svg" width="50" height="50">
-</picture>
-</a>&nbsp;&nbsp;
   <a href="https://cursor.com/home?from=agents" target="_blank" rel="noreferrer">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="skills/Codex_dark.svg">
@@ -95,22 +79,11 @@
 <a href="https://www.postman.com/" target="_blank" rel="noreferrer"><img src="skills/postman.svg" width="50" height="50" /></a>&nbsp;&nbsp;
 <a href="https://www.warp.dev/" target="_blank" rel="noreferrer"><img src="skills/warp.svg" width="50" height="50" /></a>&nbsp;&nbsp;
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="skills/docker.svg" width="50" height="50" /></a>&nbsp;&nbsp;
-<a href="https://axios.rest/" target="_blank" rel="noreferrer"><img src="skills/axios.svg" width="50" height="50" /></a>&nbsp;&nbsp;
-<a href="https://gin-gonic.com/" target="_blank" rel="noreferrer"><img src="skills/gin.svg" width="50" height="50" /></a>&nbsp;&nbsp;
-</p>
-
-### Design Tools
-
-<p align="left">
-<a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="skills/photoshop.svg" width="50" height="50" /></a>&nbsp;&nbsp;
-<a href="https://www.adobe.com/uk/products/illustrator.html" target="_blank" rel="noreferrer"><img src="skills/illustrator.svg" width="50" height="50" /></a>&nbsp;&nbsp;
-<a href="https://www.canva.com/th_th/" target="_blank" rel="noreferrer"><img src="skills/canva.svg" width="50" height="50" /></a>&nbsp;&nbsp;
 </p>
 
 ### Cloud Platform
 
 <p align="left">
-
 <a href="https://vercel.com/" target="_blank" rel="noreferrer">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="skills/vercel_dark.svg">
@@ -126,5 +99,4 @@
   <img src="skills/railway_dark.svg" width="50" height="50">
 </picture>
 </a>&nbsp;&nbsp;
-
 </p>
