@@ -47,6 +47,7 @@
 <a href="https://gin-gonic.com/" target="_blank" rel="noreferrer"><img src="skills/gin.svg" width="50" height="50" /></a>&nbsp;&nbsp;
 </a>&nbsp;&nbsp;
 <a href="https://www.jwt.io/" target="_blank" rel="noreferrer"><img src="skills/jwt.svg" width="50" height="50" /></a>&nbsp;&nbsp;
+<a href="" target="_blank" rel="noreferrer"><img src="skills/gcp-api.svg" width="50" height="50" /></a>&nbsp;&nbsp;
 </p>
 
 ### Database
