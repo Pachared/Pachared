@@ -61,13 +61,6 @@
 
 <p align="left">
 <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="skills/vscode.svg" width="50" height="50" /></a>&nbsp;&nbsp;
-  <a href="https://cursor.com/home?from=agents" target="_blank" rel="noreferrer">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="skills/Codex_dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="skills/Codex_light.svg">
-  <img src="skills/Codex_dark.svg" width="50" height="50">
-</picture>
-</a>&nbsp;&nbsp;
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="skills/git.svg" width="50" height="50" /></a>&nbsp;&nbsp;
 <a href="https://github.com/" target="_blank" rel="noreferrer">
 <picture>
@@ -79,6 +72,17 @@
 <a href="https://www.postman.com/" target="_blank" rel="noreferrer"><img src="skills/postman.svg" width="50" height="50" /></a>&nbsp;&nbsp;
 <a href="https://www.warp.dev/" target="_blank" rel="noreferrer"><img src="skills/warp.svg" width="50" height="50" /></a>&nbsp;&nbsp;
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="skills/docker.svg" width="50" height="50" /></a>&nbsp;&nbsp;
+</p>
+
+### AI Agents
+
+<p align="left">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="skills/Codex_dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="skills/Codex_light.svg">
+  <img src="skills/Codex_dark.svg" width="50" height="50">
+</picture>
+</a>&nbsp;&nbsp;
 </p>
 
 ### Cloud Platform
